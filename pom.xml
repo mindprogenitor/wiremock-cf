@@ -78,7 +78,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>com.github.tomakehurst.wiremock.standalone.WireMockServerRunner</mainClass>
+							<mainClass>com.mindprogeny.wiremock.cf.WiremockStandalone</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
