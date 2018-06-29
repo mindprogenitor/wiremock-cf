@@ -3,7 +3,7 @@
 
 	<groupId>com.mindprogeny.wiremock</groupId>
 	<artifactId>wiremock-cf</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	
 	<parent>
 		<groupId>com.mindprogeny.common</groupId>
@@ -19,7 +19,7 @@
 		<connection>scm:git:git@github.com:mindprogenitor/wiremock-cf.git</connection>
 		<developerConnection>scm:git:git@github.com:mindprogenitor/wiremock-cf.git</developerConnection>
 		<url>http://github.com/mindprogenitor/wiremock-cf</url>
-		<tag>HEAD</tag>
+		<tag>0.0.2</tag>
 	</scm>
 
 	<properties>
