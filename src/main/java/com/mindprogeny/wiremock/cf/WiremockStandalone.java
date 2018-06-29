@@ -41,7 +41,6 @@ public class WiremockStandalone {
 	public static void main(String ...args) {
 		// At the moment no configuration possibilities are given for simplicity purposes
 		String[] options ={
-				"--port", "80",
 				"--no-request-journal",
 				"--container-threads","105",
 				"--jetty-acceptor-threads", "50",
